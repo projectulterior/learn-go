@@ -10,7 +10,7 @@ func main() {
 
 	fmt.Printf("Hello, %s and %s", name, other)
 
-	for i := 0; i < 10; i++ {
+	for i := 0; i < 5; i++ {
 		fmt.Println("Hello")
 	}
 }
